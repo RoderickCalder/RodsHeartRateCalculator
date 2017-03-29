@@ -1,0 +1,8 @@
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\UnitTest\bin\Debug\HeartRate.exe
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\UnitTest\bin\Debug\HeartRate.pdb
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\UnitTest\obj\Debug\UnitTest.pdb

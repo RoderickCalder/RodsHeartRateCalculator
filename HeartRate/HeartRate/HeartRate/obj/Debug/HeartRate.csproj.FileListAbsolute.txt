@@ -1,0 +1,6 @@
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\HeartRate\bin\Debug\HeartRate.exe.config
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\HeartRate\bin\Debug\HeartRate.exe
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\HeartRate\bin\Debug\HeartRate.pdb
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\HeartRate\obj\Debug\HeartRate.csprojResolveAssemblyReference.cache
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\HeartRate\obj\Debug\HeartRate.exe
+C:\Users\rodrick.calder\Desktop\HeartRate\HeartRate\HeartRate\obj\Debug\HeartRate.pdb
